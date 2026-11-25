@@ -1,0 +1,1 @@
+{"fields":{"/functionName":{"kind":"text","value":"SetTimestamp"},"/scripts":{"kind":"text","value":"on SetTimestamp\n\tput the seconds into TheTimestamp \nend SetTimestamp"}},"id":"c818311c-7ad8-4626-ad9f-ebd0c3c0bdba","kind":"customCode","name":"SetTimestamp","parent":"1fd3e2a2-1e4c-412b-9f50-92649f1a39da","scope":"project","table":"LiveCodeIntegration"}

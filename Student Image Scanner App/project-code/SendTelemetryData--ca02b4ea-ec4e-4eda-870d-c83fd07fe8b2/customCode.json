@@ -1,0 +1,1 @@
+{"fields":{"/functionName":{"kind":"text","value":"SendTelemetryData"},"/scripts":{"kind":"text","value":"on SendTelemetryData\nend SendTelemetryData"}},"id":"ca02b4ea-ec4e-4eda-870d-c83fd07fe8b2","kind":"customCode","name":"SendTelemetryData","parent":"1fd3e2a2-1e4c-412b-9f50-92649f1a39da","scope":"project","table":"LiveCodeIntegration"}

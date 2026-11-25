@@ -1,0 +1,1 @@
+{"fields":{"/functionName":{"kind":"text","value":"DuplicateQuiz"},"/scripts":{"kind":"text","value":"on DuplicateSelectedQuiz\nend DuplicateSelectedQuiz"}},"id":"a1b4a1f3-b5af-4edb-9f51-062f9b73d9bb","kind":"customCode","name":"DuplicateQuiz","parent":"1fd3e2a2-1e4c-412b-9f50-92649f1a39da","scope":"project","table":"LiveCodeIntegration"}
